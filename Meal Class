@@ -1,0 +1,22 @@
+// this is my first attempt at writing a block of code not copied from somewhere else//
+
+import.java.util.*
+
+public class Meal {
+
+static Scanner userInput= new Scanner (System.in);
+  private String meat;
+  private String fish;
+  private String poultry;
+  private String vegetable;
+  private String fruit;
+  private String dairy;
+  private String pasta;
+  private String dryGoods;
+  public static int measurement;{
+  
+  if (userInput.meat + userInput.pasta);
+  
+  System.out.println(meal);
+  }
+}
